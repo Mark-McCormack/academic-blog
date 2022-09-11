@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic Blog</title>
+    
+    
+    
+    <link>https://mark-mccormack.github.io/academic-blog/</link>
+    <description>Recent content on Academic Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://mark-mccormack.github.io/academic-blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
