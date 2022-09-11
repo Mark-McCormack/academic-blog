@@ -1,7 +1,7 @@
 ---
 title: "OpenCoach: Genetic Algorithms for Martial Arts & Physical Training"
 date: 2022-09-11T14:28:15+01:00
-draft: true
+draft: false
 ---
 
 ## Abstract
