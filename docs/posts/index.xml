@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic Blog</title>
+    <title>Posts on Academic Blog</title>
     
     
     
-    <link>https://mark-mccormack.github.io/academic-blog/</link>
-    <description>Recent content on Academic Blog</description>
+    <link>https://mark-mccormack.github.io/academic-blog/posts/</link>
+    <description>Recent content in Posts on Academic Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Sep 2022 14:28:15 +0100</lastBuildDate>
     
-	<atom:link href="https://mark-mccormack.github.io/academic-blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mark-mccormack.github.io/academic-blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
