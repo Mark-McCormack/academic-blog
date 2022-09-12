@@ -6,7 +6,7 @@ draft: false
 
 ## Abstract
 
-![Abstract Cover Image](/opencoach/abstract.jpg)
+![Abstract Cover Image](https://images.unsplash.com/photo-1655720406770-12ea329b5b61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3132&q=80)
 
 This white paper looks to investigate the possibilities current AI/ML technologies can offer us regarding physical health and training, with a focus towards various martial arts. In the first part of this paper, we will look at the current state of the art. We will see some current ML/AI models and their learning environments and look at how these can be manipulated to work in the context of physical training. 
 
@@ -16,7 +16,7 @@ To conclude, we will discuss how participants can use this software. This includ
 
 ## Part One: The State of the Art
 
-![State of the Art Cover Image](/opencoach/part-one.jpg)
+![State of the Art Cover Image](https://images.unsplash.com/photo-1655720407000-a3e5067cdfb2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3132&q=80)
 
 > "Where there is preparation, there is no fear." - Hwang Kee
 
@@ -32,7 +32,7 @@ Unity has also created resources to facilitate this type of 3D learning in their
 
 ## Part Two: The Technical Approach
 
-![Technical Approach Cover Image](/opencoach/part-two.jpg)
+![Technical Approach Cover Image](https://images.unsplash.com/photo-1655720408861-8b04c0724fd9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3132&q=80)
 
 > "Train tirelessly to defeat the greatest enemy: yourself, and to discover the greatest master: yourself." - Shi Su Yan
 
@@ -46,7 +46,7 @@ Once this technology has been proven to show satisfactory results, the next step
 
 ## Part Three: The User Experience
 
-![User Experience Cover Image](/opencoach/part-three.jpg)
+![User Experience Cover Image](https://images.unsplash.com/photo-1655720410101-c5cc15b1faf0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3132&q=80)
 
 > "If you want to be a champion, you need to train like one." - George St. Pierre
 
@@ -58,7 +58,7 @@ From here, we need to connect both the Unity Learning Environments with this fro
 
 ## Conclusion
 
-![Conclusion Cover Image](/opencoach/conclusion.jpg)
+![Conclusion Cover Image](https://images.unsplash.com/photo-1655720406100-3f1eda0a4519?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3732&q=80)
 
 As we have seen, the technology currently exists to facilitate the creation of Machine Learning models to learn physical training tasks and compare these models against humans during practice to provide them live feedback on their posture and how they can improve their technique. 
 
